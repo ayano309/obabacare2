@@ -36,6 +36,8 @@
 * ページネーション
 
 # ER図
+![obabacare](https://user-images.githubusercontent.com/99533616/176627826-a9d951a5-04b8-4d2a-ba4e-993e6c332b73.jpg)
+
 
 # 使用技術
 ## バックエンド
