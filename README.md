@@ -1,69 +1,33 @@
 # obaba-care
-# 健康管理アプリ（obaba-care）です。
 
+## サイト概要
+### サイトテーマ
+ブログアプリ
 
-## なぜ制作したか
+### テーマを選んだ理由
 介護生活の際、毎日のバイタル情報や訪問看護の方のアドバイスを紙に書いてました。
 また、症状もいつ頃かなのかをしっかりと把握することができずちゃんとした内容を医者に話すことが
 できませんでした。
 
+### ターゲットユーザ
+介護している人
 
-## サービス概要
-* バイタル情報
-* 気になったこと
-* アドバイスなどのメモ機能
-* メモ検索機能
-* 気になったこと重要フラグ
-* 水分記録
-* 排便記録
-* 薬記録
+### 主な利用シーン
+介護者の生活記録
 
-# 主な機能
-
-* User ログイン機能
-* ゲストログイン機能
-* バイタル情報登録
-* 今日の気になったことコメント
-* 気になったこと重要フラグ
-* 気になったことカテゴリ機能
-* アドバイスメモ登録
-* 水分記録機能
-* 排便記録機能
-* 薬記録機能
-* 薬タグ機能
-* 非同期
-* 検索機能
-* ページネーション
-
-# ER図
+## 設計書
+### ER図
 ![obabacare](https://user-images.githubusercontent.com/99533616/176627826-a9d951a5-04b8-4d2a-ba4e-993e6c332b73.jpg)
 
 
-# 使用技術
-## バックエンド
- * Ruby 2.7.5p203 (2021-11-24 revision f69aeb8314) [arm64-darwin20]
- * Rails 6.1.5
- * Rubocop
-## フロントエンド
-* HTML
-* CSS(SCSS)
-* JavaScript(jQuery)
-* bootstrap4
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-# 主な Gem
-* gem 'devise'
-* gem 'better_errors'
-* gem 'binding_of_caller'
-* gem 'pry-rails'
-* gem 'annotate'
-* gem 'rubocop-rails'
-* gem 'rubocop'
-* gem 'factory_bot_rails'
-* gem 'faker'
-* gem 'rspec-rails'
-* gem 'simple_calendar', '~> 2.0'
-* gem 'image_processing', '~> 1.2'
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
 
-## その他
-* ActiveStrage
-* ActionText
