@@ -31,3 +31,9 @@
 - 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
 - 使用しない場合は、使用素材の項目をREADMEから削除してください。
 
+## 参考資料
+https://www.pref.gunma.jp/contents/100215656.pdf
+https://www2.ninjal.ac.jp/byoin/teian/ruikeibetu/teiango/teiango-ruikei-b/kioreki.html
+https://www.mcsg.co.jp/kentatsu/kaigo/18201
+https://www.sagasix.jp/column/care/hypotension/
+http://heiwa-net.ne.jp/care-nursecall/care/vital-signs/
