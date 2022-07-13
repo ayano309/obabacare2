@@ -28,8 +28,7 @@
 - IDE：Cloud9
 
 ## 使用素材
-フリーイラスト素材のぴくらいく
-https://piclike.net/food/441.html
+
 
 ## 参考資料
 https://www.pref.gunma.jp/contents/100215656.pdf
